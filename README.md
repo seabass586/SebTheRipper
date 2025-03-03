@@ -1,2 +1,2 @@
 # SebTheRipper
-my attempt of a password cracker
+my attempt at a password cracker
